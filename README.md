@@ -1,8 +1,5 @@
-### 🎮 Chainstation Controller - 3D Model
-
-🚀 *Explore the 3D model of the Chainstation controller!*  
-
-
 ### 🎮 Chainstation Controller - 3D Preview  
 
-<iframe src="https://yourusername.github.io/3d-model-viewer-embed/" width="100%" height="500" style="border: none;"></iframe>
+[![3D Model Preview](https://via.placeholder.com/600x300?text=Click+to+View+3D+Model)](https://johnutopia.github.io/3d-model-viewer-embed/)
+
+👉 *Click the image above to explore the model in 3D!*  
