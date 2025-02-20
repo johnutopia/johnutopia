@@ -1,5 +1,7 @@
-### 🚀 3D Model Showcase
+### 🎮 Chainstation Controller - 3D Model
 
-[![3D Model](https://static.sketchfab.com/static/images/api/sketchfab-api-viewer.png)](https://yourusername.github.io/3d-model/)
+🚀 *Explore the 3D model of the Chainstation controller!*  
 
-👉 *Click the image to explore the 3D model!*
+👉 [**View Model Live**](https://yourusername.github.io/3d-model-viewer-simple/)  
+
+⚙️ *Rotate, zoom, and inspect the details!*
